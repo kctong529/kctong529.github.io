@@ -1,0 +1,43 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+#sidebar {
+  /* ... existing styles ... */
+
+  /* Override dropdown-menu to behave as nested list */
+  .dropdown-menu {
+    position: static;       // Remove absolute positioning
+    float: none;            // No floating
+    background: transparent; // Remove background or match sidebar bg
+    border: none;           // Remove borders
+    box-shadow: none;       // Remove shadows
+    padding-left: 1.5rem;   // Indent nested items
+    margin: 0;              // Remove margins
+    width: 100%;            // Full width inside sidebar
+
+    a.dropdown-item {
+      padding: 0.4rem 0;    // Smaller padding for sidebar nested links
+      color: var(--sidebar-link-color, #ddd);  // Adjust link color to match sidebar
+
+      &:hover {
+        background-color: var(--sidebar-hover-bg);
+        color: var(--sidebar-active-color);
+      }
+    }
+  }
+
+  /* Optional: adjust dropdown toggle caret position */
+  .nav-link.dropdown-toggle::after {
+    float: right;
+    margin-left: auto;
+  }
+}
