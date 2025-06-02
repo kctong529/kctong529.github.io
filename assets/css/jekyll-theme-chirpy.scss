@@ -10,34 +10,24 @@
 
 /* append your custom style below */
 
-#sidebar {
-  /* ... existing styles ... */
+#sidebar ul {
+  margin-bottom: 0 !important;
+}
 
-  /* Override dropdown-menu to behave as nested list */
-  .dropdown-menu {
-    position: static;       // Remove absolute positioning
-    float: none;            // No floating
-    background: transparent; // Remove background or match sidebar bg
-    border: none;           // Remove borders
-    box-shadow: none;       // Remove shadows
-    padding-left: 1.5rem;   // Indent nested items
-    margin: 0;              // Remove margins
-    width: 100%;            // Full width inside sidebar
+.collapse {
+  height: 0;            /* collapsed */
+  overflow: hidden;     /* hide contents */
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  transition: height 0.3s ease, padding 1s ease, margin 1s ease;
+}
 
-    a.dropdown-item {
-      padding: 0.4rem 0;    // Smaller padding for sidebar nested links
-      color: var(--sidebar-link-color, #ddd);  // Adjust link color to match sidebar
-
-      &:hover {
-        background-color: var(--sidebar-hover-bg);
-        color: var(--sidebar-active-color);
-      }
-    }
-  }
-
-  /* Optional: adjust dropdown toggle caret position */
-  .nav-link.dropdown-toggle::after {
-    float: right;
-    margin-left: auto;
-  }
+.collapse.show {
+  height: auto;        /* reset to auto after animation */
+  overflow: hidden;    /* allow content to show */
+  margin: initial;     /* restore margins if needed */
+  padding-top: initial;
+  padding-bottom: initial;
 }
