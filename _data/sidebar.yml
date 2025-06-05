@@ -1,5 +1,5 @@
 # _data/sidebar.yml
 
-- title: Empty on purpose
+- title: Home
   url: /
   icon: "fas fa-home"
