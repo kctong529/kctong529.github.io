@@ -1,5 +1,9 @@
 # _data/sidebar.yml
 
-- title: Home
-  url: /
+- title: First Day
+  url: /finnish-scenario-1/
+  icon: "fas fa-home"
+
+- title: Lunch at Täffä
+  url: /finnish-scenario-2/
   icon: "fas fa-home"

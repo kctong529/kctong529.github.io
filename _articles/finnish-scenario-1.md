@@ -1,8 +1,6 @@
 ---
-layout: default
+title: "Your First Day at Finnish Uni"
 ---
-
-# 📖 Your First Day at Finnish Uni - Survival Guide
 
 So you're about to start at a Finnish university and you're freaking out a bit? Don't worry - everyone's been there! This guide will help you navigate your first orientation week like a pro.
 
