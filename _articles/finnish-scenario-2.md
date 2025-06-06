@@ -6,10 +6,10 @@ It's your first week and you're starving. Aino, your friendly ISO, has gathered 
 
 ## What You'll Learn Here
 
-**Food ordering basics:** How to actually get food without looking confused
-**Numbers that matter:** Prices, portions, and everyday counting
-**Payment stuff:** Cards only, and what to do if you only have cash
-**Small talk topics:** Where you live, how you get to campus, weekend plans
+**Food ordering basics:** How to actually get food without looking confused  
+**Numbers that matter:** Prices, portions, and everyday counting  
+**Payment stuff:** Cards only, and what to do if you only have cash  
+**Small talk topics:** Where you live, how you get to campus, weekend plans  
 **Food vocabulary:** What's on your plate and how to describe it
 
 ---
@@ -181,15 +181,15 @@ Haluatko **juustoa**? (Do you want cheese?)
 
 ### The Täffä Ordering Process (Step by Step)
 
-1. **Grab your gear:**
-   Take a **tray (tarjotin)** and **two glasses (lasit)**.
+1. **Grab your gear:**  
+   Take a **tray (tarjotin)** and **two glasses (lasit)**.  
    Typically one for **water** and one for **milk**.
 
-2. **Approach the counter:**
+2. **Approach the counter:**  
    When it’s your turn, simply say the name of the dish you want.
 
-3. **Answer the cheese question:**
-   The staff might ask: **“Juustoa?” (Cheese?)**
+3. **Answer the cheese question:**  
+   The staff might ask: **“Juustoa?” (Cheese?)**  
    Reply **“Kyllä” (Yes)** or **“Ei” (No)**.
 
 4. **Pick your main dish:**
@@ -197,16 +197,16 @@ Haluatko **juustoa**? (Do you want cheese?)
    * If it’s **spaghetti**, staff will serve it directly.
    * If it’s another dish, you might need to **take a plate yourself**, fill it with **rice**, and take **one scoop of the main dish** from the counter. No staff involved in this case.
 
-5. **Pay by card:**
+5. **Pay by card:**  
    Only **kortti (card)** is accepted — no cash.
 
-6. **Hit the salad bar:**
+6. **Hit the salad bar:**  
    Help yourself to **salad and bread**, which are included.
 
-7. **Fill your drinks:**
+7. **Fill your drinks:**  
    Fill one glass with **water** and one with **milk** at the drink station.
 
-8. **Find a seat:**
+8. **Find a seat:**  
    Grab any empty table. No reservations — it’s first come, first served.
 
 9. **After eating:**
